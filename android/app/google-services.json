@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917574594200",
+    "project_id": "vender-efc01",
+    "storage_bucket": "vender-efc01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917574594200:android:27c02c482106f384446aed",
+        "android_client_info": {
+          "package_name": "com.example.vendor_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2FsymgOo2j26mO3ksnFhwt2oYqmbjroA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
